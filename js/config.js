@@ -75,7 +75,8 @@ var l_bgImages = [
 	"touhou01.jpg",
 	"touhou02.jpg",
 	"touhou03.jpg",
-	"54213.jpg"
+	"54213.jpg",
+	"wallpaper.jpg",
 ];
 
 // (Image-background only)
