@@ -75,7 +75,7 @@ var l_bgImages = [
 	"touhou01.jpg",
 	"touhou02.jpg",
 	"touhou03.jpg",
-	"rp_venator_extensive0000.jpg"
+	"54213.jpg"
 ];
 
 // (Image-background only)
