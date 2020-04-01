@@ -116,7 +116,7 @@ var l_musicDisplay = true;
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
 	{ogg: "Zack Hemsey - See What I've Become.mp3", name: "War"},
-	{ogg: "falls_in_fall.ogg", name: "秋に舞う椛と滝飛沫"},
+	{ogg: "Zack Hemsey - See What I've Become.mp3", name: "wars"},
 	{youtube: "https://www.youtube.com/watch?v=lWDYAJ2-Y1E", name: "Star"},
 	{youtube: "https://www.youtube.com/watch?v=lWDYAJ2-Y1E", name: "Stars"},
 ];
